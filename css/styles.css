@@ -1,0 +1,204 @@
+html {
+  font-size: 10px;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-image: url("https://wallpaperset.com/w/full/2/5/b/19533.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#deathNote {
+  width: 70rem;
+  height: 53rem;
+  margin: 1rem auto;
+}
+
+.bookPage {
+  height: 45rem;
+  width: auto;
+  position: relative;
+}
+
+.humanName {
+  font-family: "Annie Use Your Telescope", cursive;
+  position: absolute;
+  top: 1.9rem;
+  left: 3rem;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-size: 1.8rem;
+  width: 100%;
+}
+
+.coverPage {
+  background-image: url("../images/coverPage.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page1 {
+  background-image: url("../images/page1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page2 {
+  background-image: url("../images/page2.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page3 {
+  background-image: url("../images/page3.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page4 {
+  background-image: url("../images/page4.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page5 {
+  background-image: url("../images/page5.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page6 {
+  background-image: url("../images/page6.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page7 {
+  background-image: url("../images/page7.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page8 {
+  background-image: url("../images/page8.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page9 {
+  background-image: url("../images/page9.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page10 {
+  background-image: url("../images/page10.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page11 {
+  background-image: url("../images/page11.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page12 {
+  background-image: url("../images/page12.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page13 {
+  background-image: url("../images/page13.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page14 {
+  background-image: url("../images/page14.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page15 {
+  background-image: url("../images/page15.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page16 {
+  background-image: url("../images/page16.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.page17 {
+  background-image: url("../images/page17.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.linedPage {
+  background-image: url("../images/linedPage.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.last5 {
+  background-image: url("../images/last5.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.last4 {
+  background-image: url("../images/last4.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.last3 {
+  background-image: url("../images/last3.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 1000px) {
+  html {
+    font-size: 9px;
+  }
+
+  body {
+    width: 100%;
+    height: 400vh;
+  }
+
+  #deathNote {
+    height: 70rem;
+    width: 100rem;
+    margin-top: 40rem;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  html {
+    font-size: 7px;
+  }
+
+  body {
+    width: 100%;
+    height: 800vh;
+  }
+
+  #deathNote {
+    height: 90rem;
+    width: 120rem;
+    margin-top: 50rem;
+    margin-right: 5rem;
+  }
+}
